@@ -19,8 +19,8 @@ or please select `drive` from `switch branches/tags`
 `V2.0` has ControlNet and the latest WebUI and daily installed extensions updates. <br />
 
 ## 🦒 Colab
-| v1.9 | v2.0 | Info - Token - Model Page
-| --- | --- | --- |
+| v1.9 | v2.0 | Info - Model Page | Token |Description
+| --- | --- | --- | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/v1.9/stable_diffusion_webui_colab.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/v2.0/stable_diffusion_webui_colab.ipynb) | stable_diffusion_webui_colab <br /> [CompVis/stable-diffusion-v-1-4-original](https://huggingface.co/CompVis/stable-diffusion-v-1-4-original)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/v1.9/waifu_diffusion_webui_colab.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/v2.0/waifu_diffusion_webui_colab.ipynb) | waifu_diffusion_webui_colab <br /> [hakurei/waifu-diffusion-v1-3](https://huggingface.co/hakurei/waifu-diffusion-v1-3)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/v1.9/stable_diffusion_inpainting_webui_colab.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/v2.0/stable_diffusion_inpainting_webui_colab.ipynb) | stable_diffusion_inpainting_webui_colab <br /> [runwayml/stable-diffusion-inpainting](https://huggingface.co/runwayml/stable-diffusion-inpainting)
